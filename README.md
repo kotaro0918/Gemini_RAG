@@ -1,3 +1,5 @@
 # Gemini_RAG
 
 前挙げてたレポジトリだとOpenAIのAPIを使って課金する必要があるので無料のGeminiのAPIを使って書き直しました
+
+Gemini.ipynbをGoogle colanoratoryで開いて使ってみたください
